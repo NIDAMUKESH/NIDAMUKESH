@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NIDAMUKESH
 - 👀 I’m interested in Interships
-- 🌱 I’m currently learning Fullter
-- 💞️ I’m looking to collaborated
+- 🌱 I’m currently learning flutter
+- 💞️ I’m looking to Work
 - 📫  Reach me at nidamukesh@gmail.com 
 
 <!---
